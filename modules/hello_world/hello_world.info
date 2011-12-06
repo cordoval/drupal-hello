@@ -1,4 +1,3 @@
 name = hello_world
 description = This description would be listed on module enable/disable page.
-package = Core - optional
 version = 1.0
