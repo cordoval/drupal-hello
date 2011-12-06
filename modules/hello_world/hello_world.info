@@ -1,3 +1,4 @@
 name = hello_world
 description = This description would be listed on module enable/disable page.
+core = 7.x
 version = 1.0
